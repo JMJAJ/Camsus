@@ -6,8 +6,7 @@ This is a Discord bot written in Python that allows you to take snapshots from v
 
 - Take snapshots from IP cameras and RTSP streams
 - Search for camera dorks using DuckDuckGo
-- Brute-force HTTP and RTSP camera credentials
-- Display location information (country, region, city, timezone) based on the camera's IP address
+- Display location information (country, region, city, timezone) based on the camera's IP address (ipinfo token needed)
 - Generate Google Maps links for camera locations
 
 ## Requirements
