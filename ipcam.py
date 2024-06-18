@@ -30,7 +30,7 @@ class aclient(discord.Client):
     async def on_ready(self):
         await self.wait_until_ready()
         if not self.synced: #check if slash commands have been synced 
-            await tree.sync(guild = discord.Object(id=YOUR_GUILD_ID)) #guild specific: leave blank if global (global registration can take 1-24 hours)
+            await tree.sync(guild = discord.Object(id=YOUR_GUILD_ID))
             self.synced = True
         print(f"We have logged in as {self.user}.")
 
