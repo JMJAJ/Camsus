@@ -30,7 +30,7 @@ This is a Discord bot written in Python that allows you to take snapshots from v
 ## Commands
 
 - `/url base_url:http://example.com image_path:/path/to/image token:YOUR_TOKEN`: Snapshot of any IP camera.
-- `/rtsp rtsp_url:rtsp://example.com/stream username: password: token:YOUR_TOKEN`: Snapshot of an RTSP camera.
+- `/rtsp rtsp_url:rtsp://example.com/stream token:YOUR_TOKEN`: Snapshot of an RTSP camera.
 - `/mobotix ip:192.168.1.100 port:80 token:YOUR_TOKEN`: Snapshot of a Mobotix camera.
 - `/search search:camera_dork amount:10`: Search for camera dorks using DuckDuckGo.
 
