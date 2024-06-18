@@ -41,10 +41,6 @@ This is a Discord bot written in Python that allows you to take snapshots from v
 - Replace `YOUR_TOKEN` with your actual token from ipinfo.io for location information.
 - Btw this is demo version of full version. That means I remove most of the functions xd but ye, have fun.
 
-## Contributions
-
-Contributions are welcome! If you find any issues or want to add new features, please open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
