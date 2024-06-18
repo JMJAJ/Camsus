@@ -39,6 +39,7 @@ This is a Discord bot written in Python that allows you to take snapshots from v
 - This bot is intended for educational and security research purposes only. Please use it responsibly and respect the privacy of others.
 - The bot requires appropriate permissions to upload files and send messages in the Discord server.
 - Replace `YOUR_TOKEN` with your actual token from ipinfo.io for location information.
+- Btw this is demo version of full version. That means I remove most of the functions xd but ye, have fun.
 
 ## Contributions
 
