@@ -22,7 +22,7 @@ This is a Discord bot written in Python that allows you to take snapshots from v
 ## Usage
 
 1. Clone the repository or download the source code.
-2. Install the required Python libraries: `pip install -r requirements.txt`
+2. Install the required Python libraries.
 3. Set your Discord bot token in the `DISCORD_TOKEN` variable.
 4. Set your Discord server's guild ID in the `YOUR_GUILD_ID` variable.
 5. Run the script: `python bot.py`
