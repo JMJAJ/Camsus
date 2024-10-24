@@ -1,6 +1,6 @@
 # IP Camera Discord Bot
 
-This is a Discord bot written in Python that allows you to take snapshots from various types of IP cameras and RTSP streams. The bot also includes features for searching camera dorks and getting location information using the ipinfo.io API.
+This is a Discord bot written in Python that allows you to take snapshots from various types of IP cameras and RTSP streams. The bot also includes features for searching camera dorks and getting location information using the ipinfo.io API. If you only want to test RTSP cameras, you can try my other project, [C-Viewer](https://c-viewer.vercel.app/)
 
 ## Features
 
